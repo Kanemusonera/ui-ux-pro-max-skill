@@ -1,0 +1,64 @@
+{
+  "slug": "slow-cooked-beef-short-ribs",
+  "title": "Slow-Cooked Beef Short Ribs",
+  "description": "Bone-in short ribs braised in red wine and stock until they fall apart, finished with a glossy, reduced sauce.",
+  "intro": [
+    "This is the dish to make when you want the house to smell incredible for an afternoon. Short ribs have everything: deep beefy flavour, plenty of marbling and a bone that gives the sauce real body.",
+    "The method is simple but patient. A hard sear, a long, low braise and a sauce reduced until it coats the back of a spoon. Serve it over buttery mash or soft polenta and let the table go quiet."
+  ],
+  "categories": ["meat-poultry", "comfort-food", "sunday-dinners"],
+  "prepMinutes": 25,
+  "cookMinutes": 210,
+  "servings": "4",
+  "difficulty": "Medium",
+  "cuisine": "British",
+  "tags": ["braise", "beef", "red wine", "slow cook", "make ahead"],
+  "publishedAt": "2026-10-26",
+  "featured": true,
+  "tone": "oxblood",
+  "ingredients": [
+    {
+      "group": "For the ribs",
+      "items": [
+        { "quantity": "4", "item": "bone-in beef short ribs", "note": "about 1.6kg total" },
+        { "quantity": "1 tbsp", "item": "flaky sea salt" },
+        { "quantity": "2 tbsp", "item": "plain flour" },
+        { "quantity": "2 tbsp", "item": "vegetable or beef dripping" }
+      ]
+    },
+    {
+      "group": "For the braise",
+      "items": [
+        { "quantity": "2", "item": "onions", "note": "roughly chopped" },
+        { "quantity": "2", "item": "carrots", "note": "roughly chopped" },
+        { "quantity": "2", "item": "celery sticks", "note": "roughly chopped" },
+        { "quantity": "6", "item": "garlic cloves", "note": "bashed" },
+        { "quantity": "2 tbsp", "item": "tomato purée" },
+        { "quantity": "500ml", "item": "full-bodied red wine" },
+        { "quantity": "500ml", "item": "beef stock" },
+        { "quantity": "1 tbsp", "item": "Worcestershire sauce" },
+        { "quantity": "4", "item": "thyme sprigs" },
+        { "quantity": "2", "item": "bay leaves" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Season early", "text": "Pat the ribs dry and season all over with the salt. If you have time, leave them uncovered in the fridge for a few hours or overnight. Take them out 30 minutes before cooking." },
+    { "title": "Sear hard", "text": "Heat the oven to 150°C (130°C fan). Dust the ribs lightly with flour. Heat the dripping in a large casserole over a medium-high heat and brown the ribs in batches, turning, until deeply coloured on every side, about 10 minutes per batch. Lift out." },
+    { "title": "Build the base", "text": "Pour off all but 1 tbsp of fat. Add the onions, carrots and celery and cook for 8–10 minutes until softened and catching at the edges. Stir in the garlic and tomato purée and cook for 2 minutes until the purée darkens." },
+    { "title": "Deglaze", "text": "Pour in the wine, scraping up every bit stuck to the base of the pan. Bubble until reduced by half, then add the stock, Worcestershire sauce, thyme and bay." },
+    { "title": "Braise", "text": "Return the ribs, bone-side up, nestling them into the liquid so they are mostly submerged. Bring to a simmer, cover and transfer to the oven for 3–3½ hours, until the meat is completely tender and pulling away from the bone." },
+    { "title": "Finish the sauce", "text": "Lift the ribs onto a warm plate. Strain the liquid into a jug, skim off the fat, then return to the pan and boil hard for 10–15 minutes until glossy and reduced by about half. Taste for salt." },
+    { "title": "Serve", "text": "Spoon the sauce over the ribs and serve with mash, polenta or a good loaf for mopping up." }
+  ],
+  "tips": [
+    "Don't rush the sear. The colour you get on the meat is the colour you get in the sauce.",
+    "These are even better made a day ahead. Chill the ribs in the liquid overnight, lift off the set fat, then reheat gently.",
+    "If the sauce reduces too far, loosen with a splash of stock or water."
+  ],
+  "substitutions": [
+    { "swap": "Red wine", "note": "Use extra beef stock plus 1 tbsp red wine vinegar for an alcohol-free braise." },
+    { "swap": "Short ribs", "note": "Beef shin or ox cheek both work. Cook until tender; cheeks may need an extra 30 minutes." },
+    { "swap": "Plain flour", "note": "Use cornflour or skip it for a gluten-free version, and check your stock." }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "creamy-garlic-chicken",
+  "title": "Creamy Garlic Chicken",
+  "description": "Golden, crisp-skinned chicken thighs in a garlic, thyme and Parmesan cream sauce. One pan, thirty-five minutes.",
+  "intro": [
+    "This is the weeknight dinner that never feels like a compromise. Chicken thighs stay juicy, the skin goes crisp in the pan, and the sauce is built in the same pan from all the flavour left behind.",
+    "Serve it with crusty bread, rice or buttered greens. There will be sauce left over, and someone will fight you for it."
+  ],
+  "categories": ["meat-poultry", "quick-easy"],
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "servings": "4",
+  "difficulty": "Easy",
+  "cuisine": "French-inspired",
+  "tags": ["chicken", "garlic", "one pan", "weeknight", "cream"],
+  "publishedAt": "2026-10-12",
+  "featured": true,
+  "tone": "ochre",
+  "ingredients": [
+    {
+      "items": [
+        { "quantity": "8", "item": "skin-on, boneless chicken thighs" },
+        { "quantity": "1 tbsp", "item": "olive oil" },
+        { "quantity": "8", "item": "garlic cloves", "note": "thinly sliced" },
+        { "quantity": "150ml", "item": "dry white wine or chicken stock" },
+        { "quantity": "250ml", "item": "double cream" },
+        { "quantity": "40g", "item": "Parmesan", "note": "finely grated" },
+        { "quantity": "1 tsp", "item": "Dijon mustard" },
+        { "quantity": "4", "item": "thyme sprigs", "note": "leaves picked" },
+        { "quantity": "1 handful", "item": "baby spinach", "note": "optional" },
+        { "quantity": "½", "item": "lemon", "note": "juiced" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Crisp the skin", "text": "Pat the chicken dry and season well. Place skin-side down in a large, cold frying pan with the oil, then set over a medium heat. Cook without moving for 12–14 minutes until the skin is deep golden and crisp." },
+    { "title": "Cook through", "text": "Turn the thighs and cook for 5 more minutes until cooked through (74°C in the thickest part). Lift onto a plate, skin-side up." },
+    { "title": "Garlic", "text": "Pour off all but 1 tbsp of fat. Lower the heat, add the garlic and cook gently for 1–2 minutes until soft and just golden. Don't let it burn." },
+    { "title": "Build the sauce", "text": "Add the wine or stock and scrape up the browned bits. Bubble for 2 minutes, then stir in the cream, Parmesan, mustard and thyme. Simmer for 3–4 minutes until thickened." },
+    { "title": "Finish", "text": "Stir through the spinach until wilted, add a squeeze of lemon and season. Return the chicken, skin-side up, so the skin stays crisp above the sauce. Serve straight away." }
+  ],
+  "tips": [
+    "Starting the thighs in a cold pan renders the fat slowly and gives you the crispest skin.",
+    "Keep the skin above the sauce when you return the chicken, or it will soften."
+  ],
+  "substitutions": [
+    { "swap": "Double cream", "note": "Crème fraîche works; stir it in off the heat so it doesn't split." },
+    { "swap": "Chicken thighs", "note": "Use breasts, flattened slightly, and cook for 5–6 minutes per side." },
+    { "swap": "Parmesan", "note": "Any hard, aged cheese such as Grana Padano or mature Cheddar." }
+  ]
+}

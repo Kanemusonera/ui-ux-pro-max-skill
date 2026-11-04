@@ -1,0 +1,57 @@
+{
+  "slug": "sticky-toffee-pudding",
+  "title": "Sticky Toffee Pudding",
+  "description": "A dark, moist date sponge soaked in a salted toffee sauce, served warm with cold cream or vanilla ice cream.",
+  "intro": [
+    "There are few better ends to a Sunday dinner. The dates melt into the sponge, keeping it impossibly moist, and the sauce is poured over twice: once to soak in, once to serve.",
+    "It reheats beautifully, so it's an ideal make-ahead pudding for a crowd."
+  ],
+  "categories": ["desserts", "comfort-food"],
+  "prepMinutes": 25,
+  "cookMinutes": 35,
+  "servings": "8",
+  "difficulty": "Easy",
+  "cuisine": "British",
+  "tags": ["pudding", "dates", "toffee", "dessert", "make ahead", "vegetarian"],
+  "publishedAt": "2026-09-07",
+  "tone": "toffee",
+  "ingredients": [
+    {
+      "group": "For the sponge",
+      "items": [
+        { "quantity": "200g", "item": "pitted Medjool dates", "note": "chopped" },
+        { "quantity": "250ml", "item": "boiling water" },
+        { "quantity": "1 tsp", "item": "bicarbonate of soda" },
+        { "quantity": "85g", "item": "butter", "note": "soft, plus extra for the tin" },
+        { "quantity": "140g", "item": "dark muscovado sugar" },
+        { "quantity": "2", "item": "large eggs" },
+        { "quantity": "175g", "item": "self-raising flour" },
+        { "quantity": "1 tsp", "item": "vanilla extract" }
+      ]
+    },
+    {
+      "group": "For the toffee sauce",
+      "items": [
+        { "quantity": "100g", "item": "butter" },
+        { "quantity": "175g", "item": "light muscovado sugar" },
+        { "quantity": "300ml", "item": "double cream" },
+        { "quantity": "½ tsp", "item": "flaky sea salt" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Soak the dates", "text": "Heat the oven to 180°C (160°C fan) and butter a 20 × 20cm baking dish. Pour the boiling water over the dates, stir in the bicarbonate of soda and leave for 10 minutes. Mash roughly with a fork." },
+    { "title": "Make the batter", "text": "Beat the butter and sugar until light, then beat in the eggs one at a time. Fold in the flour, then the dates and their liquid and the vanilla. It will be a loose batter." },
+    { "title": "Bake", "text": "Pour into the dish and bake for 30–35 minutes until risen and a skewer comes out clean." },
+    { "title": "Make the sauce", "text": "Meanwhile, melt the butter and sugar in a pan, stirring, then add the cream and salt. Bring to the boil and bubble for 3–4 minutes until glossy and slightly thickened." },
+    { "title": "Soak and serve", "text": "Prick the warm sponge all over with a skewer and pour over a third of the sauce. Leave for 10 minutes to soak in. Cut into squares and serve with the remaining warm sauce and cream or ice cream." }
+  ],
+  "tips": [
+    "Medjool dates are softer and more caramel-like than standard dried dates and make a noticeably richer sponge.",
+    "Make the sponge up to 2 days ahead. Reheat, covered, at 160°C for 15 minutes, then pour over the sauce."
+  ],
+  "substitutions": [
+    { "swap": "Dark muscovado sugar", "note": "Dark soft brown sugar plus 1 tbsp black treacle." },
+    { "swap": "Self-raising flour", "note": "Use plain flour with 2 tsp baking powder." }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "steak-with-peppercorn-sauce",
+  "title": "Steak with Peppercorn Sauce",
+  "description": "A properly seared ribeye, rested in butter and thyme, with a brandy and cracked black peppercorn sauce made in the same pan.",
+  "intro": [
+    "Restaurant steak at home comes down to three things: a dry surface, a very hot pan and the patience to leave it alone. The sauce is the reward, built in minutes from what the steak leaves behind.",
+    "Crack the peppercorns yourself. Pre-ground pepper turns dusty and harsh; freshly crushed corns are fragrant, warm and give the sauce its texture."
+  ],
+  "categories": ["meat-poultry", "quick-easy"],
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": "2",
+  "difficulty": "Medium",
+  "cuisine": "French",
+  "tags": ["steak", "ribeye", "peppercorn", "brandy", "date night"],
+  "publishedAt": "2026-09-28",
+  "featured": true,
+  "tone": "char",
+  "ingredients": [
+    {
+      "group": "For the steak",
+      "items": [
+        { "quantity": "2", "item": "ribeye or sirloin steaks", "note": "about 3cm thick" },
+        { "quantity": "1 tbsp", "item": "vegetable oil" },
+        { "quantity": "30g", "item": "butter" },
+        { "quantity": "2", "item": "garlic cloves", "note": "bashed" },
+        { "quantity": "3", "item": "thyme sprigs" }
+      ]
+    },
+    {
+      "group": "For the sauce",
+      "items": [
+        { "quantity": "1 tbsp", "item": "black peppercorns", "note": "coarsely crushed" },
+        { "quantity": "1", "item": "small shallot", "note": "finely chopped" },
+        { "quantity": "50ml", "item": "brandy or Cognac" },
+        { "quantity": "150ml", "item": "beef stock" },
+        { "quantity": "100ml", "item": "double cream" },
+        { "quantity": "1 tsp", "item": "Dijon mustard" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Prepare", "text": "Take the steaks out of the fridge 30 minutes before cooking. Pat completely dry and season generously with salt." },
+    { "title": "Sear", "text": "Heat a heavy frying pan until very hot. Add the oil, then the steaks. Cook for 2–3 minutes per side for medium-rare, turning every minute for an even crust. Sear the fat edge with tongs." },
+    { "title": "Baste", "text": "Lower the heat, add the butter, garlic and thyme. As the butter foams, tilt the pan and spoon it over the steaks for 1 minute. Lift onto a warm plate and rest for 5–8 minutes." },
+    { "title": "Toast the pepper", "text": "Pour off most of the fat, leaving the browned bits. Add the crushed peppercorns and shallot and cook over a medium heat for 1–2 minutes until fragrant." },
+    { "title": "Flambé and reduce", "text": "Take the pan off the heat and add the brandy. Return to the heat and let it bubble (or carefully ignite it) until almost evaporated. Add the stock and reduce by half." },
+    { "title": "Finish", "text": "Stir in the cream, mustard and any resting juices. Simmer for 2 minutes until it coats a spoon. Slice the steak and pour the sauce over." }
+  ],
+  "tips": [
+    "Always add alcohol off the heat and keep your face and sleeves clear of the pan.",
+    "Use a thermometer if you have one: 50°C for rare, 54°C for medium-rare before resting."
+  ],
+  "substitutions": [
+    { "swap": "Brandy", "note": "Use a splash of extra stock and a few drops of Worcestershire sauce." },
+    { "swap": "Black peppercorns", "note": "Mix in green peppercorns in brine for a milder, classic bistro version." },
+    { "swap": "Ribeye", "note": "Sirloin, rump or fillet. Thinner steaks need less time." }
+  ]
+}

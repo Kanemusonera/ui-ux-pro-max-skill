@@ -1,0 +1,20 @@
+{
+  "slug": "the-patience-of-a-good-sear",
+  "title": "The Patience of a Good Sear",
+  "excerpt": "Why the most important flavour in a braise happens in the first ten minutes, and how to stop yourself from turning the meat too soon.",
+  "kind": "Technique",
+  "publishedAt": "2026-10-29",
+  "readMinutes": 4,
+  "tone": "oxblood",
+  "relatedRecipes": ["slow-cooked-beef-short-ribs", "steak-with-peppercorn-sauce", "homemade-burgers"],
+  "body": [
+    { "type": "p", "text": "Ask anyone who cooks a lot what separates a good stew from a great one and they will usually say the same thing: the sear. That deep, mahogany crust on the outside of the meat is not decoration. It is the base flavour of everything that follows." },
+    { "type": "h2", "text": "What is actually happening" },
+    { "type": "p", "text": "When protein meets a hot, dry surface, amino acids and sugars react and create hundreds of new flavour compounds. This is the Maillard reaction, and it is responsible for the taste of toast, roasted coffee, browned butter and a well-crusted steak. It only really gets going above about 140°C, which is why wet meat in a crowded, lukewarm pan turns grey instead of brown." },
+    { "type": "h2", "text": "Three rules we cook by" },
+    { "type": "p", "text": "First, dry the meat. Pat it with kitchen paper, or better still, salt it and leave it uncovered in the fridge for a few hours. Second, don't crowd the pan. Work in batches and give every piece space so steam can escape. Third, leave it alone. The meat will stick at first and release itself when the crust has formed. If you have to fight it off the pan, it isn't ready." },
+    { "type": "quote", "text": "The colour you get on the meat is the colour you get in the sauce." },
+    { "type": "h2", "text": "Don't waste the pan" },
+    { "type": "p", "text": "Those dark bits stuck to the bottom of the pan are concentrated flavour. A splash of wine, stock or even water, and a good scrape with a wooden spoon, lifts them into the sauce. It is the single easiest way to make a home-cooked dish taste like it came from a restaurant kitchen." }
+  ]
+}

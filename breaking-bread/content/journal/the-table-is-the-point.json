@@ -1,0 +1,19 @@
+{
+  "slug": "the-table-is-the-point",
+  "title": "The Table Is the Point",
+  "excerpt": "On why we called this kitchen Breaking Bread, and why the best meals are measured in conversations, not compliments.",
+  "kind": "Kitchen Notes",
+  "publishedAt": "2026-10-01",
+  "readMinutes": 3,
+  "tone": "butter",
+  "relatedRecipes": ["sunday-roast", "rosemary-sea-salt-focaccia", "sticky-toffee-pudding"],
+  "body": [
+    { "type": "p", "text": "Breaking bread is one of the oldest ideas we have. To share a loaf with someone is to make room for them: at your table, in your day, in your life. That is why we chose the name." },
+    { "type": "p", "text": "It carries a quieter meaning for us too. The phrase runs through the Christian story of fellowship and gratitude, of people gathered around a simple meal and finding something bigger there. That spirit, of thankfulness and an open table, sits gently underneath everything we cook." },
+    { "type": "h2", "text": "Cook for people" },
+    { "type": "p", "text": "Most of the recipes here are built to be shared. Big trays, slow braises, a lasagne that feeds eight, a loaf you tear rather than slice. Not because cooking for one doesn't matter, but because food tastes better with company." },
+    { "type": "quote", "text": "The best meals are measured in conversations, not compliments." },
+    { "type": "h2", "text": "Pull up a chair" },
+    { "type": "p", "text": "So cook something generous. Invite someone you haven't seen in a while. Put the pan in the middle of the table and let everyone help themselves. That's the whole idea." }
+  ]
+}

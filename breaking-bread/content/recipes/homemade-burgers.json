@@ -1,0 +1,67 @@
+{
+  "slug": "homemade-burgers",
+  "title": "Homemade Smash Burgers",
+  "description": "Crisp-edged smash burgers with melted American cheese, quick pickled onions and a punchy burger sauce in a toasted brioche bun.",
+  "intro": [
+    "Smash burgers are the best argument for doing less. No breadcrumbs, no egg, no fuss: just well-seasoned beef pressed hard onto a screaming hot pan until the edges go lacy and crisp.",
+    "Make the sauce and onions first, toast the buns, and cook the patties in the last five minutes. They wait for nobody."
+  ],
+  "categories": ["meat-poultry", "comfort-food", "quick-easy"],
+  "prepMinutes": 20,
+  "cookMinutes": 15,
+  "servings": "4",
+  "difficulty": "Easy",
+  "cuisine": "American",
+  "tags": ["burger", "beef", "cheese", "brioche", "friday night"],
+  "publishedAt": "2026-09-21",
+  "featured": true,
+  "tone": "ember",
+  "ingredients": [
+    {
+      "group": "For the burgers",
+      "items": [
+        { "quantity": "600g", "item": "beef mince", "note": "20% fat, chuck if possible" },
+        { "quantity": "8", "item": "slices American cheese" },
+        { "quantity": "4", "item": "brioche buns", "note": "split" },
+        { "quantity": "20g", "item": "butter", "note": "soft" },
+        { "quantity": "1", "item": "little gem lettuce", "note": "leaves separated" }
+      ]
+    },
+    {
+      "group": "For the pickled onions",
+      "items": [
+        { "quantity": "1", "item": "red onion", "note": "very thinly sliced" },
+        { "quantity": "4 tbsp", "item": "red wine vinegar" },
+        { "quantity": "1 tsp", "item": "caster sugar" }
+      ]
+    },
+    {
+      "group": "For the burger sauce",
+      "items": [
+        { "quantity": "4 tbsp", "item": "mayonnaise" },
+        { "quantity": "1 tbsp", "item": "ketchup" },
+        { "quantity": "1 tbsp", "item": "American mustard" },
+        { "quantity": "2", "item": "gherkins", "note": "finely chopped, plus a splash of brine" },
+        { "quantity": "½ tsp", "item": "smoked paprika" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Pickle", "text": "Toss the onion with the vinegar, sugar and a pinch of salt. Leave for at least 15 minutes, stirring once." },
+    { "title": "Sauce", "text": "Mix all the sauce ingredients together and season. Chill until needed." },
+    { "title": "Portion", "text": "Divide the mince into 8 loose balls of about 75g. Don't season or pack them yet. Keep them cold." },
+    { "title": "Toast the buns", "text": "Butter the cut sides of the buns and toast in a large, heavy frying pan or on a griddle until golden. Set aside." },
+    { "title": "Smash", "text": "Get the pan as hot as it will go. Add 2–4 balls, spaced well apart, and immediately press each one flat with a sturdy spatula until about 1cm thick. Season the tops with salt and pepper." },
+    { "title": "Flip and melt", "text": "Cook for 2 minutes without moving until a deep brown crust forms at the edges. Scrape under each patty, flip, add a slice of cheese and cook for 1 minute more. Stack two patties per burger." },
+    { "title": "Build", "text": "Spread sauce on both halves of each bun. Add lettuce, the double patty and a tangle of pickled onions. Eat immediately." }
+  ],
+  "tips": [
+    "A sheet of baking paper between the meat and the spatula stops it sticking as you smash.",
+    "Only press once, in the first 30 seconds. Pressing later squeezes out the juices."
+  ],
+  "substitutions": [
+    { "swap": "American cheese", "note": "Mature Cheddar or Monterey Jack, sliced thin so it melts quickly." },
+    { "swap": "Brioche buns", "note": "Potato rolls give a softer, classic diner bite." },
+    { "swap": "Beef mince", "note": "A mix of beef and pork mince is excellent; keep the fat content around 20%." }
+  ]
+}

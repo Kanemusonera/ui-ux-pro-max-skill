@@ -1,0 +1,16 @@
+{
+  "name": "Breaking Bread",
+  "tagline": "Good Food. Big Flavours.",
+  "strapline": "Bringing people together, one meal at a time.",
+  "description": "Breaking Bread is a home-cooking kitchen for generous, big-flavoured food: slow braises, proper Sunday dinners, weeknight wins and the kind of meals that pull people to the table.",
+  "url": "https://breakingbread.co.uk",
+  "email": "hello@breakingbread.co.uk",
+  "social": {
+    "tiktok": "https://www.tiktok.com/@breakingbread",
+    "tiktokHandle": "@breakingbread",
+    "instagram": "https://www.instagram.com/breakingbread",
+    "instagramHandle": "@breakingbread"
+  },
+  "hero": { "tone": "ember" },
+  "about": { "tone": "butter" }
+}

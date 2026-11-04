@@ -1,0 +1,22 @@
+{
+  "slug": "a-pantry-for-big-flavours",
+  "title": "A Pantry for Big Flavours",
+  "excerpt": "The ten ingredients we always keep in the cupboard, and how each one turns an ordinary weeknight dinner into something worth sitting down for.",
+  "kind": "Ingredients",
+  "publishedAt": "2026-10-15",
+  "readMinutes": 5,
+  "tone": "olive",
+  "relatedRecipes": ["creamy-garlic-chicken", "chilli-garlic-prawn-linguine"],
+  "body": [
+    { "type": "p", "text": "Big flavour rarely comes from complicated recipes. It comes from a handful of hard-working ingredients used with confidence. Keep these in the cupboard and you are never more than half an hour from a dinner you're proud of." },
+    { "type": "h2", "text": "Salt, properly" },
+    { "type": "p", "text": "Keep two kinds: fine sea salt for seasoning as you cook and flaky salt for finishing. Seasoning early and in layers makes food taste more of itself, not saltier." },
+    { "type": "h2", "text": "Fat with character" },
+    { "type": "p", "text": "A good extra virgin olive oil for finishing, a neutral oil for searing, unsalted butter and, if you roast often, a jar of beef dripping or goose fat. Fat carries flavour; choosing the right one is half the dish." },
+    { "type": "h2", "text": "Acid and heat" },
+    { "type": "p", "text": "Lemons, red wine vinegar, Dijon mustard and chilli flakes. When something tastes flat, it almost always needs acidity rather than more salt. A squeeze of lemon at the end can wake up an entire pan." },
+    { "type": "h2", "text": "The deep stuff" },
+    { "type": "p", "text": "Tomato purée, Worcestershire sauce, good stock and a hard cheese like Parmesan. These are your shortcuts to savoury depth, the backbone of ragùs, braises and gravies." },
+    { "type": "quote", "text": "When a dish tastes flat, reach for acid before you reach for salt." }
+  ]
+}

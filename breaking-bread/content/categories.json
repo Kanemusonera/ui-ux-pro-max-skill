@@ -1,0 +1,9 @@
+[
+  { "slug": "comfort-food", "name": "Comfort Food", "description": "Slow, rich and generous. The food you want when the weather turns.", "tone": "ember" },
+  { "slug": "sunday-dinners", "name": "Sunday Dinners", "description": "Roasts, braises and big tables. Worth every minute.", "tone": "oxblood" },
+  { "slug": "meat-poultry", "name": "Meat & Poultry", "description": "Steaks, braises, roasts and the sauces that make them.", "tone": "char" },
+  { "slug": "pasta-rice", "name": "Pasta & Rice", "description": "From a ten-minute linguine to a lasagne built in layers.", "tone": "tomato" },
+  { "slug": "baking", "name": "Baking", "description": "Bread, dough and everything that comes out of the oven golden.", "tone": "butter" },
+  { "slug": "desserts", "name": "Desserts", "description": "Puddings, tarts and something sweet to finish.", "tone": "toffee" },
+  { "slug": "quick-easy", "name": "Quick & Easy", "description": "Big flavour in half an hour or less.", "tone": "herb" }
+]

@@ -1,0 +1,76 @@
+{
+  "slug": "sunday-roast",
+  "title": "Sunday Roast Beef with Yorkshire Puddings",
+  "description": "Roast sirloin with towering Yorkshire puddings, crisp roast potatoes and a proper pan gravy. The whole Sunday, timed.",
+  "intro": [
+    "A Sunday roast is less a recipe than a plan. Get the timings right and everything lands on the table hot at once: rosy beef, potatoes that shatter, puddings that rise and a gravy made from the roasting tin.",
+    "Read the method through before you start, put the potatoes on first, and let the beef rest while the puddings go in. That resting time is your secret weapon."
+  ],
+  "categories": ["sunday-dinners", "meat-poultry", "comfort-food"],
+  "prepMinutes": 30,
+  "cookMinutes": 120,
+  "servings": "6",
+  "difficulty": "Challenging",
+  "cuisine": "British",
+  "tags": ["roast", "beef", "yorkshire pudding", "gravy", "roast potatoes", "sunday lunch"],
+  "publishedAt": "2026-10-05",
+  "featured": true,
+  "tone": "ember",
+  "ingredients": [
+    {
+      "group": "For the beef",
+      "items": [
+        { "quantity": "1.5kg", "item": "beef sirloin joint", "note": "fat on, at room temperature" },
+        { "quantity": "1 tbsp", "item": "English mustard powder" },
+        { "quantity": "2", "item": "onions", "note": "halved" },
+        { "quantity": "1 tbsp", "item": "flaky sea salt" }
+      ]
+    },
+    {
+      "group": "For the potatoes",
+      "items": [
+        { "quantity": "1.5kg", "item": "Maris Piper potatoes", "note": "peeled and halved" },
+        { "quantity": "100g", "item": "beef dripping or goose fat" },
+        { "quantity": "4", "item": "rosemary sprigs" }
+      ]
+    },
+    {
+      "group": "For the Yorkshire puddings",
+      "items": [
+        { "quantity": "3", "item": "large eggs" },
+        { "quantity": "150ml", "item": "whole milk" },
+        { "quantity": "115g", "item": "plain flour" },
+        { "quantity": "4 tbsp", "item": "vegetable oil or dripping" }
+      ]
+    },
+    {
+      "group": "For the gravy",
+      "items": [
+        { "quantity": "1 tbsp", "item": "plain flour" },
+        { "quantity": "150ml", "item": "red wine" },
+        { "quantity": "500ml", "item": "beef stock" },
+        { "quantity": "1 tsp", "item": "redcurrant jelly" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Make the batter", "text": "Whisk the eggs and milk, then whisk in the flour and a pinch of salt until smooth. Rest in the fridge for at least 30 minutes, ideally a few hours." },
+    { "title": "Start the potatoes", "text": "Heat the oven to 220°C (200°C fan). Boil the potatoes in salted water for 8–10 minutes until the edges are soft. Drain, steam dry for 5 minutes, then shake in the colander to rough up the edges." },
+    { "title": "Roast the beef", "text": "Rub the beef with mustard powder, salt and pepper. Sit it on the onion halves in a roasting tin and roast for 20 minutes, then turn the oven down to 180°C (160°C fan) and roast for 15 minutes per 500g for medium-rare (52°C in the centre)." },
+    { "title": "Roast the potatoes", "text": "Heat the dripping in a large tray in the oven until shimmering. Carefully add the potatoes, turning to coat, and roast alongside the beef for 50–60 minutes, turning once, adding the rosemary for the last 15 minutes." },
+    { "title": "Rest the beef", "text": "Lift the beef onto a board, cover loosely with foil and rest for at least 30 minutes. Turn the oven up to 220°C (200°C fan)." },
+    { "title": "Bake the puddings", "text": "Put 1 tsp oil into each hole of a 12-hole muffin tin and heat in the oven for 10 minutes until smoking. Pour in the batter quickly, filling each hole halfway. Bake for 20–25 minutes without opening the door, until high and deep golden." },
+    { "title": "Make the gravy", "text": "Spoon most of the fat from the beef tin, leaving the onions and juices. Set over a medium heat, stir in the flour, then add the wine and scrape up the bits. Add the stock, redcurrant jelly and any resting juices. Simmer for 5 minutes, strain and season." },
+    { "title": "Carve and serve", "text": "Carve the beef thinly across the grain. Serve with the potatoes, puddings, gravy and your choice of greens and horseradish." }
+  ],
+  "tips": [
+    "A probe thermometer takes the guesswork out: 52°C for medium-rare, 58°C for medium. The temperature rises a few degrees as it rests.",
+    "The fat for the puddings must be smoking hot. That's what makes them rise.",
+    "Resting the beef for 30 minutes frees up the oven for the puddings and makes a juicier joint."
+  ],
+  "substitutions": [
+    { "swap": "Sirloin", "note": "Topside is leaner and cheaper; rib of beef is the luxury option. Adjust times by weight." },
+    { "swap": "Beef dripping", "note": "Goose fat or a neutral oil with a high smoke point." },
+    { "swap": "Red wine in the gravy", "note": "Use more stock and a dash of Worcestershire sauce." }
+  ]
+}

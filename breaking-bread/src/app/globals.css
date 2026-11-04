@@ -1,0 +1,187 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #13110f;
+  --color-ink-2: #1c1916;
+  --color-ink-3: #2a2621;
+  --color-cream: #f3ede2;
+  --color-paper: #faf6ef;
+  --color-bronze: #b08a57;
+  --color-bronze-deep: #7d5f36;
+  --color-stone: #625a51;
+  --color-mist: #b9b0a3;
+  --color-line: #ddd3c3;
+
+  --font-serif: var(--font-display), "Cormorant Garamond", Georgia, serif;
+  --font-sans: var(--font-body), "Karla", ui-sans-serif, system-ui, sans-serif;
+
+  --tracking-label: 0.18em;
+  --breakpoint-xs: 26rem;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: clip;
+  }
+  ::selection {
+    background: var(--color-bronze);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-bronze);
+    outline-offset: 3px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-x {
+    width: 100%;
+    max-width: 88rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+  @media (min-width: 48rem) {
+    .container-x {
+      padding-inline: 2rem;
+    }
+  }
+  @media (min-width: 80rem) {
+    .container-x {
+      padding-inline: 3rem;
+    }
+  }
+
+  .label {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: var(--tracking-label);
+    text-transform: uppercase;
+  }
+
+  .display {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    line-height: 0.95;
+    letter-spacing: -0.01em;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    min-height: 3.25rem;
+    padding: 0 1.75rem;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: var(--tracking-label);
+    text-transform: uppercase;
+    transition: background-color 200ms, color 200ms, border-color 200ms;
+    cursor: pointer;
+  }
+  .btn-light {
+    background: var(--color-cream);
+    color: var(--color-ink);
+  }
+  .btn-light:hover {
+    background: var(--color-bronze);
+  }
+  .btn-dark {
+    background: var(--color-ink);
+    color: var(--color-cream);
+  }
+  .btn-dark:hover {
+    background: var(--color-ink-3);
+  }
+  .btn-outline {
+    border: 1px solid currentColor;
+  }
+  .btn-outline:hover {
+    background: var(--color-ink);
+    color: var(--color-cream);
+    border-color: var(--color-ink);
+  }
+  .btn-outline-light {
+    border: 1px solid rgb(243 237 226 / 0.5);
+    color: var(--color-cream);
+  }
+  .btn-outline-light:hover {
+    background: var(--color-cream);
+    color: var(--color-ink);
+  }
+
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 250ms;
+  }
+  .link-underline:hover,
+  .group:hover .link-underline {
+    background-size: 100% 1px;
+  }
+
+  /* Long-form text */
+  .prose-bb p {
+    font-size: 1.125rem;
+    line-height: 1.75;
+    margin-top: 1.25em;
+  }
+  .prose-bb h2 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.1;
+    margin-top: 2em;
+  }
+  .prose-bb blockquote {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 1.75rem;
+    line-height: 1.25;
+    border-left: 2px solid var(--color-bronze);
+    padding-left: 1.25rem;
+    margin: 2em 0;
+  }
+}
+
+/* Paper grain used on photo placeholders */
+.grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.18;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@media print {
+  @page {
+    margin: 16mm;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

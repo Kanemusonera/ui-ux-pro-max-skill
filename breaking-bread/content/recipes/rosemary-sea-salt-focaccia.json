@@ -1,0 +1,54 @@
+{
+  "slug": "rosemary-sea-salt-focaccia",
+  "title": "Rosemary & Sea Salt Focaccia",
+  "description": "A tall, airy, olive-oil-rich focaccia with a crisp golden base, dimpled with rosemary and flaky salt. No kneading needed.",
+  "intro": [
+    "If you've never baked bread, start here. This is a wet, no-knead dough: you fold it a few times, leave it to do its work and come back to something that looks far more impressive than the effort it took.",
+    "Be generous with the olive oil. It's what gives focaccia its crisp, almost fried base and its rich, tender crumb."
+  ],
+  "categories": ["baking"],
+  "prepMinutes": 20,
+  "cookMinutes": 25,
+  "restMinutes": 180,
+  "servings": "1 tray (12 pieces)",
+  "difficulty": "Easy",
+  "cuisine": "Italian",
+  "tags": ["bread", "focaccia", "olive oil", "rosemary", "no knead", "vegetarian"],
+  "publishedAt": "2026-09-14",
+  "tone": "butter",
+  "ingredients": [
+    {
+      "group": "For the dough",
+      "items": [
+        { "quantity": "500g", "item": "strong white bread flour" },
+        { "quantity": "7g", "item": "fast-action dried yeast", "note": "1 sachet" },
+        { "quantity": "10g", "item": "fine sea salt" },
+        { "quantity": "400ml", "item": "lukewarm water" },
+        { "quantity": "3 tbsp", "item": "extra virgin olive oil" }
+      ]
+    },
+    {
+      "group": "For the tray and topping",
+      "items": [
+        { "quantity": "5 tbsp", "item": "extra virgin olive oil" },
+        { "quantity": "3", "item": "rosemary sprigs", "note": "leaves picked" },
+        { "quantity": "1 tsp", "item": "flaky sea salt" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Mix", "text": "In a large bowl, stir together the flour, yeast and fine salt. Add the water and 3 tbsp oil and mix with a spoon until there are no dry patches. The dough will be very wet and sticky. Cover and leave for 30 minutes." },
+    { "title": "Fold", "text": "With wet hands, grab one edge of the dough, stretch it up and fold it over the middle. Turn the bowl and repeat four times. Cover and repeat this set of folds three more times, 30 minutes apart." },
+    { "title": "Prove in the tray", "text": "Pour 3 tbsp oil into a 30 × 20cm deep baking tin. Tip in the dough, turn to coat, and gently stretch it towards the corners. Cover and leave for 1 hour until puffy and nearly doubled." },
+    { "title": "Dimple", "text": "Heat the oven to 230°C (210°C fan). Drizzle the remaining oil over the dough. Oil your fingertips and press firmly all over to make deep dimples right down to the tray. Scatter with rosemary and flaky salt." },
+    { "title": "Bake", "text": "Bake for 22–25 minutes until deep golden on top and crisp underneath. Leave in the tin for 5 minutes, then move to a rack so the base stays crisp." }
+  ],
+  "tips": [
+    "For deeper flavour, after folding, cover the dough and leave it in the fridge overnight. Let it come to room temperature in the tray before baking.",
+    "The dough should be wobbly and full of bubbles before it goes in the oven. If it looks tight, give it longer."
+  ],
+  "substitutions": [
+    { "swap": "Strong white flour", "note": "Plain flour works but gives a slightly flatter, more tender bread." },
+    { "swap": "Rosemary", "note": "Try halved cherry tomatoes and olives, thinly sliced red onion, or garlic and thyme." }
+  ]
+}

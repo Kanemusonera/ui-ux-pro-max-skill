@@ -1,0 +1,74 @@
+{
+  "slug": "homemade-lasagne",
+  "title": "Homemade Lasagne",
+  "description": "A slow-simmered beef and pork ragù layered with silky béchamel and plenty of Parmesan, baked until bubbling.",
+  "intro": [
+    "A proper lasagne is a weekend project, and that is the point. The ragù simmers low for two hours until it is rich and jammy, the béchamel is seasoned with nutmeg, and every layer gets enough Parmesan to matter.",
+    "Make it the day before if you can. It slices more neatly, the flavours settle and you get to enjoy your guests instead of the washing-up."
+  ],
+  "categories": ["pasta-rice", "comfort-food"],
+  "prepMinutes": 40,
+  "cookMinutes": 165,
+  "servings": "6–8",
+  "difficulty": "Medium",
+  "cuisine": "Italian",
+  "tags": ["ragu", "beef", "pork", "bechamel", "bake", "make ahead"],
+  "publishedAt": "2026-10-19",
+  "featured": true,
+  "tone": "tomato",
+  "ingredients": [
+    {
+      "group": "For the ragù",
+      "items": [
+        { "quantity": "2 tbsp", "item": "olive oil" },
+        { "quantity": "100g", "item": "smoked pancetta", "note": "finely diced" },
+        { "quantity": "1", "item": "onion", "note": "finely chopped" },
+        { "quantity": "1", "item": "carrot", "note": "finely chopped" },
+        { "quantity": "1", "item": "celery stick", "note": "finely chopped" },
+        { "quantity": "3", "item": "garlic cloves", "note": "finely chopped" },
+        { "quantity": "500g", "item": "beef mince", "note": "15–20% fat" },
+        { "quantity": "250g", "item": "pork mince" },
+        { "quantity": "2 tbsp", "item": "tomato purée" },
+        { "quantity": "200ml", "item": "red or white wine" },
+        { "quantity": "2 × 400g tins", "item": "chopped tomatoes" },
+        { "quantity": "250ml", "item": "whole milk" },
+        { "quantity": "2", "item": "bay leaves" }
+      ]
+    },
+    {
+      "group": "For the béchamel",
+      "items": [
+        { "quantity": "75g", "item": "butter" },
+        { "quantity": "75g", "item": "plain flour" },
+        { "quantity": "900ml", "item": "whole milk", "note": "warmed" },
+        { "quantity": "¼", "item": "nutmeg", "note": "freshly grated" }
+      ]
+    },
+    {
+      "group": "To assemble",
+      "items": [
+        { "quantity": "300g", "item": "dried lasagne sheets", "note": "or 400g fresh" },
+        { "quantity": "100g", "item": "Parmesan", "note": "finely grated" },
+        { "quantity": "125g", "item": "mozzarella", "note": "torn" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Start the ragù", "text": "Heat the oil in a large, heavy pan and fry the pancetta over a medium heat until the fat runs. Add the onion, carrot and celery with a pinch of salt and cook gently for 10–12 minutes until soft and sweet. Add the garlic for the last minute." },
+    { "title": "Brown the meat", "text": "Turn up the heat, add both minces and break them up. Cook until the liquid has evaporated and the meat is properly browned and sizzling, about 10 minutes. Stir in the tomato purée for 2 minutes." },
+    { "title": "Simmer low", "text": "Add the wine and bubble until almost gone. Add the tomatoes, half a tin of water, the milk and bay. Season, bring to a simmer, then cook uncovered on the lowest heat for 2 hours, stirring now and then, until thick and rich. Remove the bay." },
+    { "title": "Make the béchamel", "text": "Melt the butter in a saucepan, stir in the flour and cook for 2 minutes. Gradually whisk in the warm milk until smooth, then simmer, stirring, for 5 minutes until it coats a spoon. Season with salt, pepper and nutmeg." },
+    { "title": "Layer", "text": "Heat the oven to 190°C (170°C fan). In a 30 × 20cm dish, spread a thin layer of ragù, then pasta, ragù, béchamel and a scattering of Parmesan. Repeat three or four times, finishing with béchamel, the mozzarella and the remaining Parmesan." },
+    { "title": "Bake and rest", "text": "Bake for 40–45 minutes until deeply golden and bubbling. Rest for at least 15 minutes before cutting, so it holds its layers." }
+  ],
+  "tips": [
+    "Milk in the ragù sounds odd but softens the acidity of the tomatoes and makes the meat tender.",
+    "If using dried sheets, make the ragù slightly looser than you think: the pasta absorbs liquid as it bakes.",
+    "Assembled lasagne keeps in the fridge for 2 days or freezes for 3 months. Bake from chilled, adding 15 minutes."
+  ],
+  "substitutions": [
+    { "swap": "Pork mince", "note": "Use all beef, or replace with Italian sausage meat squeezed from its skins." },
+    { "swap": "Wine", "note": "Replace with the same amount of stock." },
+    { "swap": "Pancetta", "note": "Smoked streaky bacon works well; leave it out entirely if you prefer." }
+  ]
+}

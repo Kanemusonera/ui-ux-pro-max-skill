@@ -1,0 +1,48 @@
+{
+  "slug": "chilli-garlic-prawn-linguine",
+  "title": "Chilli Garlic Prawn Linguine",
+  "description": "Juicy king prawns tossed with linguine, garlic, chilli, lemon and parsley in a glossy, buttery pasta water sauce. Twenty-five minutes.",
+  "intro": [
+    "This is the fastest way we know to make a Tuesday feel like a holiday. The sauce is little more than garlic, chilli, butter and starchy pasta water, but tossed hard it turns silky and clings to every strand.",
+    "Have everything chopped before the pasta goes in. Once the prawns hit the pan, it's done in minutes."
+  ],
+  "categories": ["pasta-rice", "quick-easy"],
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": "2",
+  "difficulty": "Easy",
+  "cuisine": "Italian",
+  "tags": ["pasta", "prawns", "seafood", "chilli", "garlic", "weeknight"],
+  "publishedAt": "2026-08-31",
+  "tone": "sea",
+  "ingredients": [
+    {
+      "items": [
+        { "quantity": "200g", "item": "dried linguine" },
+        { "quantity": "3 tbsp", "item": "extra virgin olive oil" },
+        { "quantity": "4", "item": "garlic cloves", "note": "thinly sliced" },
+        { "quantity": "1", "item": "red chilli", "note": "finely chopped, or ½ tsp chilli flakes" },
+        { "quantity": "200g", "item": "raw king prawns", "note": "peeled" },
+        { "quantity": "75ml", "item": "dry white wine" },
+        { "quantity": "25g", "item": "cold butter", "note": "cubed" },
+        { "quantity": "1", "item": "lemon", "note": "zested and juiced" },
+        { "quantity": "1 small bunch", "item": "flat-leaf parsley", "note": "chopped" }
+      ]
+    }
+  ],
+  "method": [
+    { "title": "Cook the pasta", "text": "Bring a large pan of well-salted water to the boil and cook the linguine for 2 minutes less than the packet says. Scoop out a mug of pasta water before draining." },
+    { "title": "Infuse the oil", "text": "Meanwhile, warm the oil in a large frying pan over a medium-low heat. Add the garlic and chilli and cook gently for 2–3 minutes until the garlic is pale gold." },
+    { "title": "Cook the prawns", "text": "Turn up the heat, add the prawns and a pinch of salt, and cook for 1 minute per side until just pink. Pour in the wine and bubble for 1 minute." },
+    { "title": "Toss", "text": "Add the drained pasta, the butter, the lemon zest and a good splash of pasta water. Toss and stir hard over the heat for 1–2 minutes until the sauce turns glossy and coats the pasta. Add more pasta water if it looks dry." },
+    { "title": "Finish", "text": "Stir through the parsley and a squeeze of lemon juice. Season and serve straight away with a drizzle of olive oil." }
+  ],
+  "tips": [
+    "Undercooking the pasta slightly lets it finish in the sauce and soak up the flavour.",
+    "Prawns go from juicy to rubbery very quickly. Pull them when they've just turned pink."
+  ],
+  "substitutions": [
+    { "swap": "Prawns", "note": "Crab meat, stirred in at the end, or pan-fried courgette for a vegetarian version." },
+    { "swap": "White wine", "note": "Use an extra splash of pasta water and a little more lemon." }
+  ]
+}
